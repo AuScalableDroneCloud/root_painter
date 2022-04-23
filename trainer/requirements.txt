@@ -1,5 +1,5 @@
 scikit-image==0.18.1
-numpy==1.21.4
+#numpy==1.21.4
 scipy==1.6.2
 Pillow==9.0.1
 imagecodecs==2021.8.26
